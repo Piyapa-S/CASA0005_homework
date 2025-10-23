@@ -9,7 +9,7 @@ date: "2022-10-06"
 library(sf)
 library(tidyverse) 
 ```
-
+12
 ## Data loading
 
 ```{r}
